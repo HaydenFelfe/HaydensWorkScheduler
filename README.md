@@ -2,7 +2,7 @@ This calendar first allows you to view the current date at the top of the screen
 
 [Screenshot of the website](assets/calendarScreenshot.png)
 Click on the link below to view the delpoyed application.
-https://haydenfelfe.github.io/haydensCalendar/
+https://haydenfelfe.github.io/HaydensWorkScheduler/
 
 # Technologies
 * Javascirpt
